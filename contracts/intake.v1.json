@@ -1,7 +1,7 @@
 {
     "schema":  "codename-product-home-v1",
-    "codename":  "Lumenwave",
-    "repo":  "ihatesirdavi/lumenwave",
+    "codename":  "Phaseglass FX",
+    "repo":  "ihatesirdavi/phaseglass-fx",
     "product_kind":  "native-audio-effect",
     "visibility":  "PUBLIC",
     "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",

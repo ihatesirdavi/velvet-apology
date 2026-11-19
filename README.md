@@ -1,4 +1,4 @@
-# Lumenwave
+# Phaseglass FX
 
 **Public product codename** | native-audio-effect | **Staging, not released**
 

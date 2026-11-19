@@ -1,4 +1,4 @@
-# Lumenwave — public codename product rules
+# Phaseglass FX — public codename product rules
 
 - Single product home only; no shared FE/MINT/BE infrastructure or duplicate services.
 - Keep original code, artwork, internal source paths, identities, branch refs, host/network details and private project names out of this public repository until separately approved.
