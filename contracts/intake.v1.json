@@ -1,7 +1,7 @@
 {
     "schema":  "codename-product-home-v1",
-    "codename":  "Phaseglass FX",
-    "repo":  "ihatesirdavi/phaseglass-fx",
+    "codename":  "Velvet Apology",
+    "repo":  "ihatesirdavi/velvet-apology",
     "product_kind":  "native-audio-effect",
     "visibility":  "PUBLIC",
     "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
