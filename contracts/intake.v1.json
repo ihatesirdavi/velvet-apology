@@ -1,0 +1,39 @@
+{
+    "schema":  "codename-product-home-v1",
+    "codename":  "Lumenwave",
+    "repo":  "ihatesirdavi/lumenwave",
+    "product_kind":  "native-audio-effect",
+    "visibility":  "PUBLIC",
+    "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
+    "modules":  [
+                    {
+                        "name":  "signal-core",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    },
+                    {
+                        "name":  "effect-host-adapter",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    },
+                    {
+                        "name":  "control-panel",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    }
+                ],
+    "original_source_owner":  "NOT_DISCLOSED",
+    "private_source_intake":  "NOT_AUTHORIZED",
+    "public_code_release":  false,
+    "package_tested":  false,
+    "installed":  false,
+    "published":  false,
+    "auto_sync":  false,
+    "owner_accepted":  false
+}
